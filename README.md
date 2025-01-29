@@ -130,4 +130,4 @@ Proyek ini menggunakan lisensi **MIT**, sehingga dapat digunakan dan dikembangka
 
 ---
 
-✨ **Dibuat dengan ❤️ oleh [Ranggis, Advent, Nadzar, Rizqi, Riqki]** ✨
+✨ **Dibuat dengan ❤️ oleh [Ranggis, Advent, Nadzar, Rizqi, Rifqki]** ✨
